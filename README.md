@@ -7,9 +7,8 @@
 2) Type the following training data set with the help of Notepad for Employee Table.
 
 ```
---------------
 Employee Data
----------------
+
 @relation employee
 @attribute name {x,y,z,a,b}
 @attribute id numeric
@@ -24,9 +23,8 @@ z,103,medium,1,male,240238
 a,104,low,5,female,200200
 b,105,high,2,male,240240
 
---------------
 Weather Data
----------------
+
 @relation weather
 @attribute outlook {sunny,rainy,overcast}
 @attribute temparature numeric
